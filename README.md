@@ -1,2 +1,0 @@
-# badarg
-bad arg
